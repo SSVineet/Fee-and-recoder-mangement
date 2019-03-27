@@ -17,6 +17,15 @@ password Smpic@261147
 [feeslip.pdf](https://github.com/vksmpic/Fee-and-recoder-mangement/files/3014062/feeslip.pdf)
 ## Summary of Fee to given Duration
 ![feesummry](https://user-images.githubusercontent.com/44580462/55091319-a1d7ab00-50d6-11e9-8bab-a4f7869a5120.png)
+[feesummry.pdf](https://github.com/vksmpic/Fee-and-recoder-mangement/files/3014080/feesummry.pdf)
 ## Class wise list
+![classwiselist](https://user-images.githubusercontent.com/44580462/55091523-fda23400-50d6-11e9-946c-86cda65fd701.png)
+## PDF generated
+![feesummry.pdf](https://github.com/vksmpic/Fee-and-recoder-mangement/files/3014080/feesummry.pdf)
+![classwiselist](https://user-images.github
+[ssss.pdf](https://github.com/vksmpic/Fee-and-recoder-mangement/files/3014114/ssss.pdf)
+[feesummry.pdf](https://github.com/vksmpic/Fee-and-recoder-mangement/files/3014115/feesummry.pdf)
+[feeslip.pdf](https://github.com/vksmpic/Fee-and-recoder-mangement/files/3014116/feeslip.pdf)
+[spentmoney.pdf](https://github.com/vksmpic/Fee-and-recoder-mangement/files/3014117/spentmoney.pdf)
 
-this for intermediate level college fee management software which are run on java platform with Database server 
+This for intermediate level college fee management software which are run on java platform with Database server 
