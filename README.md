@@ -1,4 +1,4 @@
-# Fee-and-record-management-system
+# Fee-and-record-management-system(Desktop Application)
 ## Login Page
 ![Login](https://user-images.githubusercontent.com/44580462/55090560-5a045400-50d5-11e9-8d94-961b23d23b2b.png)
 Userid 261147
